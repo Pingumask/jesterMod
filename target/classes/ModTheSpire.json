@@ -3,7 +3,7 @@
   "name": "JesterMod",
   "author_list": ["Pingumask"],
   "description": "Adds the Jester character with his own deck and relics.",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "sts_version": "01-23-2019",
   "mts_version": "3.8.0",
   "dependencies": ["basemod", "stslib"],
