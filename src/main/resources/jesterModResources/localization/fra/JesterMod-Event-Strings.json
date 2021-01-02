@@ -1,0 +1,17 @@
+{
+  "jesterMod:IdentityCrisisEvent": {
+    "NAME": "Crise d'identité",
+    "DESCRIPTIONS": [
+      "Alors que vous voyagez à travers ~La~ ~Tour~ vous avez l'impression de vous perdre vous même.",
+      "#g~Vous~ #g~voulez~ #g~devenir~ #g~quelqu'un.~"
+    ],
+    "OPTIONS": [
+      "[Colère] Gagnez Essence du Soldat de Fer.",
+      "[Déni] Gagnez Essence de la Silencieuse.",
+      "[Marchandage] Gagnez Essence du Défectueux.",
+      "[Dépression] Gagnez Essence de la Gardienne.",
+      "[Acceptation] Gagnez Éclat Prismatique",
+      "[Partir]"
+    ]
+  }
+}

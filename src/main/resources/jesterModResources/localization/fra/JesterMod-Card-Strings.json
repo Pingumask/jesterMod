@@ -1,0 +1,354 @@
+{
+  "jesterMod:Strike": {
+    "NAME": "Frappe",
+    "DESCRIPTION": "Infligez !D! dégâts."
+  },
+  "jesterMod:Defend": {
+    "NAME": "Défense",
+    "DESCRIPTION": "Gagnez !B! d'Armure."
+  },
+  "jesterMod:Sickle": {
+    "NAME": "Faucille",
+    "DESCRIPTION": "Infligez !D! dégâts. NL jestermod:Recyclage !M!."
+  },
+  "jesterMod:Dodge": {
+    "NAME": "Esquive",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL jestermod:Recyclage !M!."
+  },
+  "jesterMod:OblivionStrike": {
+    "NAME": "Frappe de l'oubli",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Si vous avez défaussé une carte ce tour, infligez !D! dégâts à nouveau."
+  },
+  "jesterMod:DaggerRain": {
+    "NAME": "Pluie de dagues",
+    "DESCRIPTION": "Infligez !D! dégâts !M! fois. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts !M! fois."
+  },
+  "jesterMod:RecklessStrike": {
+    "NAME": "Frappe imprudente",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Gagnez !M! de Fragilité."
+  },
+  "jesterMod:DancingMad": {
+    "NAME": "Danse folle",
+    "DESCRIPTION": "Défaussez votre main. NL Piochez !M! cartes. NL jestermod:Évasive.",
+    "UPGRADE_DESCRIPTION": "Défaussez votre main. NL Piochez !M! cartes."
+  },
+  "jesterMod:Overthink": {
+    "NAME": "Surpenser",
+    "DESCRIPTION": "jestermod:Recyclage !M!. NL Gagnez [E]. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "jestermod:Recyclage !M!. NL Gagnez [E] [E]. NL Épuisement."
+  },
+  "jesterMod:FlameDance": {
+    "NAME": "Danse de la flamme",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Quand on vous attaque ce tour, infligez !M! de dégâts."
+  },
+  "jesterMod:Frenzy": {
+    "NAME": "Frénésie",
+    "DESCRIPTION": "Quand vous jouez une attaque, gagnez !M! de Force temporaire. NL Quand vous jouez une compétence, gagnez !M! de Dextérité temporaire.",
+    "UPGRADE_DESCRIPTION": "Quand vous jouez une attaque, gagnez !M! de Force temporaire. NL Quand vous houez une compétence, gagnez !M! de Dextérité temporaire. NL Inné."
+  },
+  "jesterMod:Swiftness": {
+    "NAME": "Rapidité",
+    "DESCRIPTION": "Gagnez !M! *d'Armure *plaquée."
+  },
+  "jesterMod:Contradiction": {
+    "NAME": "Contradiction",
+    "DESCRIPTION": "Quand vous recevez Faiblesse, Vulnérabilité ou Fragilité, gagnez !M! de Force.",
+    "UPGRADE_DESCRIPTION": "Quand vous recevez Faiblesse, Vulnérabilité ou Fragilité, gagnez !M! de Force. NL Inné."
+  },
+  "jesterMod:SmokeScreen": {
+    "NAME": "Écran de fumée",
+    "DESCRIPTION": "Appliquez !M! de Faiblesse à tous les ennemis. NL Gagnez 1 de Faiblesse."
+  },
+  "jesterMod:TrickyDodge": {
+    "NAME": "Esquive juste",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! de Faiblesse."
+  },
+  "jesterMod:Leeches": {
+    "NAME": "Sangsues",
+    "DESCRIPTION": "Perdez !M! PV. NL Gagnez !jesterMod:SecondMagic! de *Régénération."
+  },
+  "jesterMod:BoilDown": {
+    "NAME": "Ébouillanter",
+    "DESCRIPTION": "Infligez !D! dégats. NL Si l'ennemi succombe, obtenez une potion."
+  },
+  "jesterMod:Tinker": {
+    "NAME": "Bricolage",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Améliorez une carte de votre main jusqu'à la fin du combat.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Améliorez TOUTES les cartes de votre main jusqu'à la fin du combat."
+  },
+  "jesterMod:Discretion": {
+    "NAME": "Discrétion",
+    "DESCRIPTION": "L'armure n'est pas retirée au début du prochain tour. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "L'armure n'est pas retirée au début du prochain tour."
+  },
+  "jesterMod:SwiftDodge": {
+    "NAME": "Ésquive habile",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Peut être Améliorée à l'infini."
+  }
+,
+  "jesterMod:Prank": {
+    "NAME": "Plaisanterie",
+    "DESCRIPTION": "jestermod:Recyclage !M!. NL Épuisement. NL jestermod:Rebondissante.",
+    "UPGRADE_DESCRIPTION": "jestermod:Recyclage !M!. NL Épuisement. NL jestermod:Rebondissante, Retenue."
+  },
+  "jesterMod:Prankster": {
+    "NAME": "Plaisantin",
+    "DESCRIPTION": "Ajoute une *Plaisanterie à votre main au début de chaque tour.",
+    "UPGRADE_DESCRIPTION": "Ajoute une *Plaisanterie à votre main au début de chaque tour. NL Inné."
+  },
+  "jesterMod:Haste": {
+    "NAME": "Hâte",
+    "DESCRIPTION": "Injouable. NL Quand vous piochez cette carte, piochez !M! cartes.",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Quand vous piochez cette carte, piochez !M! cartes. NL jestermod:Évasive."
+  },
+  "jesterMod:Flee": {
+    "NAME": "Fuite",
+    "DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, gagnez !B! d'Armure.",
+    "UPGRADE_DESCRIPTION": "Injouable, jestermod:Rebondissante. NL Quand cette carte est défaussée, gagnez !B! d'Armure."
+  },
+  "jesterMod:Unleash": {
+    "NAME": "Déchainer",
+    "DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, infligez !D! dégâts à TOUS les ennemis."
+  },
+  "jesterMod:Dilapidation": {
+    "NAME": "Dilapidation",
+    "DESCRIPTION": "Infligez !D! dégats. NL Défaussez votre main."
+  },
+  "jesterMod:JackInTheBox": {
+    "NAME": "Diable en boite",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez 1 *Plaisanterie à votre pioche."
+  },
+  "jesterMod:Sacrifice": {
+    "NAME": "Sacrifice",
+    "DESCRIPTION": "Infligez-vous des dégâts égaux aux PV de l'ennemi. NL Réduisez les PV de l'ennemi à 0."
+  },
+  "jesterMod:Drunkenness": {
+    "NAME": "Ivresse",
+    "DESCRIPTION": "Au début de votre tour, gagnez !M! à !jesterMod:SecondMagic! de Force et !M! à !jesterMod:SecondMagic! de Dextérité.",
+    "UPGRADE_DESCRIPTION": "Au début de votre tour, gagnez !M! à !jesterMod:SecondMagic! de Force et !M! à !jesterMod:SecondMagic! de Dextérité. NL Inné."
+  },
+  "jesterMod:Momentum": {
+    "NAME": "Élan",
+    "DESCRIPTION": "Au début de votre tour, Gagnez 1 d'Armure *Plaquée."
+  },
+  "jesterMod:MudBall": {
+    "NAME": "Boule de boue",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez 1 *Englué à votre pioche."
+  },
+  "jesterMod:Patience": {
+    "NAME": "Patience",
+    "DESCRIPTION": "Gagnez [E] [E] [E] et piochez !M! cartes au début du prochain tour."
+  },
+  "jesterMod:Detonate": {
+    "NAME": "Détonation",
+    "DESCRIPTION": "Injouable. NL Infligez !M! dégats à TOUS les ennemis quand piochée. NL Éthérée."
+  },
+  "jesterMod:LightTheWick": {
+    "NAME": "Allumer la méche",
+    "DESCRIPTION": "Ajoutez une *Détonation à votre pile de défausse.",
+    "UPGRADE_DESCRIPTION": "Ajoutez une *Détonation à votre pile de pioche."
+  },
+  "jesterMod:Talion": {
+    "NAME": "Talion",
+    "DESCRIPTION": "Infligez !D! dégats à l'ennemi par perte de PV ce combat.",
+    "UPGRADE_DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Attaque !M! fois.)"
+    ]
+  },
+  "jesterMod:Frustration": {
+    "NAME": "Frustration",
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL Seulement jouable si vous êtes en état de Faiblesse, Vulnérabilité ou Fragilité.",
+    "EXTENDED_DESCRIPTION": [
+      "Je me sens bien."
+    ]
+  },
+  "jesterMod:Loot": {
+    "NAME": "Butin",
+    "DESCRIPTION": "Gagnez !M! d'Or. NL Épuisement."
+  },
+  "jesterMod:Inspiration": {
+    "NAME": "Inspiration",
+    "DESCRIPTION": "Injouable. NL Gagnez [E] quand piochée.",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Gagnez [E] quand piochée. NL jestermod:Évasive."
+  },
+  "jesterMod:Hide": {
+    "NAME": "Caché",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Remplacez cette carte par un *Trouvé.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Remplacez cette carte par un *Trouvé+."
+  },
+  "jesterMod:Seek": {
+    "NAME": "Trouvé",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Remplacez cette carte par un *Caché.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Remplacez cette carte par un *Caché+."
+  },
+  "jesterMod:Twirl": {
+    "NAME": "Pirouette",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Si vous êtes en état de Vulnérabilité, gagnez [E] et piochez 1 carte."
+  },
+  "jesterMod:JugglerBlade": {
+    "NAME": "Lame de jonglage",
+    "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour chaque carte défaussée ce tour.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Attaque !M! fois.)"
+    ]
+  },
+  "jesterMod:Procrastination": {
+    "NAME": "Procrastination",
+    "DESCRIPTION": "Défaussez toutes les cartes de votre main. NL Piochez autant de cartes au prochain tour. NL Épuisement."
+  },
+  "jesterMod:Juggle": {
+    "NAME": "Jongler",
+    "DESCRIPTION": "Défaussez toutes les cartes de votre main. NL Ajoutez autant de *Balles *de *jonglage à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Défaussez toutes les cartes de votre main. NL Ajoutez autant de *Balles *de *jonglage+ à votre main. NL Épuisement."
+  },
+  "jesterMod:JugglingBall": {
+    "NAME": "Balle de jonglage",
+    "DESCRIPTION": "Injouable NL jestermod:Rebondissante, Éthérée. NL Quand cette carte est Défaussée ou Épuisée, infligez !M! dégâts à un ennemi aléatoire."
+  },
+  "jesterMod:Anticipation": {
+    "NAME": "Anticipation",
+    "DESCRIPTION": "Gagnez !B! d'Armure au début du prochain tour."
+  },
+  "jesterMod:Pause": {
+    "NAME": "Pause",
+    "DESCRIPTION": "Défaussez votre main. NL Gagnez [E] au prochain tour. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Défaussez votre main. NL Gagnez [E] [E] au prochain tour. NL Épuisement."
+  },
+  "jesterMod:DanceOfChaos": {
+    "NAME": "Danse du chaos",
+    "DESCRIPTION": "Jouez les X premières cartes du dessus de votre pioche. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Jouez les X premières cartes du dessus de votre pioche."
+  },
+  "jesterMod:Illness": {
+    "NAME": "Maladie",
+    "DESCRIPTION": "Appliquez !M! Faiblesse. NL Épuisement."
+  },
+  "jesterMod:ButterflyDance": {
+    "NAME": "Danse du papillon",
+    "DESCRIPTION": "Mélangez X attaques, X compétences ET X pouvoirs aléatoires dans votre pioche. Ils coutent 0 ce combat. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Mélangez X attaques, X compétences ET X pouvoirs aléatoires dans votre pioche. Ils coutent 0 ce combat. NL Inné, Épuisement."
+  },
+  "jesterMod:Feint": {
+    "NAME": "Feinte",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Piochez une carte pour chaque carte défaussée ce tour.",
+    "EXTENDED_DESCRIPTION": [" NL (Piochez !M! cartes.)"]
+  },
+  "jesterMod:Trance": {
+    "NAME": "Transe",
+    "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire. NL Défaussez la carte du dessus de votre pioche, si c'est une compétence, jouez *Transe à nouveau."
+  },
+  "jesterMod:Precipitation": {
+    "NAME": "Precipitation",
+    "DESCRIPTION": "Quand vous mélangez votre pioche, infligez !M! dégats à TOUS les ennemis."
+  },
+  "jesterMod:HitAndRun": {
+    "NAME": "Coup fuyant",
+    "DESCRIPTION": "Infligez !D! dégats. NL Gagnez !B! d'Armure au début du prochain tour."
+  },
+  "jesterMod:QuickStrike": {
+    "NAME": "Frappe rapide",
+    "DESCRIPTION": "Infligez !D! dégats. NL Piochez une carte au début du prochain tour."
+  },
+  "jesterMod:Juggler": {
+    "NAME": "Jongleur",
+    "DESCRIPTION": "Quand vous défaussez une carte, ajoutez une *Balle *de *jonglage à votre main."
+  },
+  "jesterMod:Arrythmia": {
+    "NAME": "Arythmie",
+    "DESCRIPTION": "Gagnez [E] [E] ou Perdez [E] alternativement au début de votre tour.",
+    "UPGRADE_DESCRIPTION": "Gagnez [E] [E] ou Perdez [E] alternativement au début de votre tour. NL Inné."
+  },
+  "jesterMod:Pillage": {
+    "NAME": "Pillage",
+    "DESCRIPTION": "Choisissez *Appétit, *Leçon *Apprise, *Ébouillanter ou *Main *de *la *cupidité et ajoutez la à votre main. NL Épuisement",
+    "UPGRADE_DESCRIPTION": "Choisissez *Appétit, *Leçon *Apprise, *Ébouillanter ou *Main *de *la *cupidité et ajoutez la à votre main. NL Épuisement, Retenue."
+  },
+  "jesterMod:Schizophrenia": {
+    "NAME": "Schizophrénie",
+    "DESCRIPTION": "Au début de votre tour, choisissez une carte [#9e2a30]rouge[], [#478036]verte[], [#296187]bleue[] ou [#59367d]violette[] à ajouter à votre main."
+  },
+  "jesterMod:Disposophobia": {
+    "NAME": "Disposophobie",
+    "DESCRIPTION": "Quand vous défaussez une carte, infligez !M! dégats à cet ennemi. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Quand vous défaussez une carte, infligez !M! dégats à tous les ennemis. NL Épuisement."
+  },
+  "jesterMod:HedgehogForm": {
+    "NAME": "Forme du hérisson",
+    "DESCRIPTION": "Au début de chaque tour, gagnez !M! épines."
+  },
+  "jesterMod:Finale": {
+    "NAME": "Final",
+    "DESCRIPTION": "Infligez !D! dégats. NL Vous ne pouvez plus gagner d'Armure avec des cartes pendant les !M! prochains tours. NL Épuisement."
+  },
+  "jesterMod:Placebo": {
+    "NAME": "Placebo",
+    "DESCRIPTION": "Gagnez 1 Artefact. NL jestermod:Évasive, jestermod:Enterrée.",
+    "UPGRADE_DESCRIPTION": "Gagnez 1 Artefact. NL jestermod:Enterrée."
+  },
+  "jesterMod:Squander": {
+    "NAME": "Gaspillage",
+    "DESCRIPTION": "Défaussez les !M! cartes du dessus de votre pioche."
+  },
+  "jesterMod:Encore": {
+    "NAME": "Encore",
+    "DESCRIPTION": "Rejoue la carte précédente. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Rejoue la carte précédente. NL Épuisement, jestermod:Rebondissante.",
+    "EXTENDED_DESCRIPTION": [
+      "Je n'ai pas encore joué de carte.",
+      "Je crains que ce ne soit une mauvaise idée."
+    ]
+  },
+  "jesterMod:ButterKnife": {
+    "NAME": "Couteau à beurre",
+    "DESCRIPTION": "Infligez !D! dégats. NL jestermod:Évasive."
+  },
+  "jesterMod:Taunt": {
+    "NAME": "Provoc",
+    "DESCRIPTION": "Appliquez !M! de Vulnérabilité à TOUS les ennemis. NL Gagnez 1 de Vulnérabilité."
+  },
+  "jesterMod:Exasperation": {
+    "NAME": "Exaspération",
+    "DESCRIPTION": "Quand vous recevez Faiblesse, Vulnérabilité ou Fragilité, infligez !M! dégats à TOUS les ennemis."
+  },
+  "jesterMod:Mending": {
+    "NAME": "Raccomodage",
+    "DESCRIPTION": "Quand vous défaussez une carte, gagnez !M! d'Armure.",
+    "UPGRADE_DESCRIPTION": "Quand vous défaussez une carte, gagnez !M! d'Armure. NL Inné."
+  },
+  "jesterMod:Hopeless": {
+    "NAME": "Désespéré",
+    "DESCRIPTION": "Injouable. NL À la fin de votre tour, gagnez 1 Vulnérabilité et 1 Faiblesse. NL Éthérée."
+  },
+  "jesterMod:DesperateStrike": {
+    "NAME": "Frappe désespérée",
+    "DESCRIPTION": "Infligez !D! dégats. NL Ajoutez un *Désespéré à votre main. NL jestermod:Recyclage 1."
+  },
+  "jesterMod:SelfMockery": {
+    "NAME": "Autodérision",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une *Plaisanterie à votre pioche."
+  },
+  "jesterMod:Rebuff": {
+    "NAME": "Rebuffade",
+    "DESCRIPTION": "Infligez !D! dégats. NL Si vous êtes affaibli, infligez !D! dégats à nouveau."
+  },
+  "jesterMod:ExperimentalTreatment": {
+    "NAME": "Traitement experimental",
+    "DESCRIPTION": "Retirez toutes vos Faiblesse, Fragilité et Vulnérabilité. NL Gagnez autant de PV. NL jestermod:Enterrée, Épuisement.",
+    "EXTENDED_DESCRIPTION": [" NL (Gagnez !M! PV)."]
+  },
+  "jesterMod:BouncingKnife": {
+    "NAME": "Couteau rebondissant",
+    "DESCRIPTION": "Infligez !D! dégats. NL Quand défaussée, infligez !M! dégats à un ennemi aléatoire. NL jestermod:Rebondissante."
+  },
+  "jesterMod:PerfectDodge": {
+    "NAME": "Perfect Dodge",
+    "DESCRIPTION": "Empêche votre prochaine perte de PV. NL Vous ne pouvez plus gagner d'Armure avec des cartes jusqu'à la fin de votre prochain tour."
+  },
+  "jesterMod:LaughingGas": {
+    "NAME": "Gaz hilarant",
+    "DESCRIPTION": "Appliquez !M! Force. NL jestermod:Enterrée, jestermod:Évasive.",
+    "UPGRADE_DESCRIPTION": "Appliquez !M! Force à TOUS les ennemis. NL jestermod:Enterrée, jestermod:Évasive."
+  }
+}

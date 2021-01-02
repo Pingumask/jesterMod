@@ -1,0 +1,54 @@
+{
+        "jesterMod:Frenzy": {
+                "NAME": "Frénésie",
+                "DESCRIPTIONS": ["Gagnez #b", " de Force temporaire quand vous jouez une attaque. NL Gagnez #b"," de Dextérité temporaire quand vous jouez une compétence."]
+        },
+        "jesterMod:Contradictory": {
+                "NAME": "Contradictoire",
+                "DESCRIPTIONS": ["Quand vous recevez Faiblesse, Vulnérabilité ou Fragilité, NL Gagnez #b", " de Force."]
+        },
+        "jesterMod:Prankster": {
+                "NAME": "Plaisantin",
+                "DESCRIPTIONS": ["Ajoutez #b", " #yPlaisanterie à votre main au début de chaque tour."," #yPlaisanteries à votre main au début de chaque tour."]
+        },
+        "jesterMod:Drunkenness": {
+                "NAME": "Ivresse",
+                "DESCRIPTIONS": ["Au début de chaque tour, Gagnez #b", " à #b", " de Force et de Dextérité."]
+        },
+        "jesterMod:Momentum": {
+                "NAME": "Élan",
+                "DESCRIPTIONS": ["Au début de chaque tour, gagnez #b", " #yd'Armure #yplaquée."]
+        },
+        "jesterMod:Precipitation": {
+                "NAME": "Précipitation",
+                "DESCRIPTIONS": ["Quand vous mélangez votre pioche, infligez #b", " dégats à TOUS les ennemis."]
+        },
+        "jesterMod:Juggler": {
+                "NAME": "Jongleur",
+                "DESCRIPTIONS": ["Quand vous défaussez une carte, ajoutez #b", " #yBalles #yde #yjonglage à votre main."]
+        },
+        "jesterMod:Arrythmia": {
+                "NAME": "Arythmie",
+                "DESCRIPTIONS": ["Gagnez ", "ou perdez [E] alternativement au début de chaque tour. NL ","#bGagnez  #bde #yl'Énergie #bau #bprochain #btour.","#bPerdez #bde #yl'Énergie #bau #bprochain #btour."]
+        },
+        "jesterMod:Schizophrenia": {
+                "NAME": "Schizophrénie",
+                "DESCRIPTIONS": ["Au début de votre tour, choisissez #b", " carte [#9e2a30]rouge[], [#478036]verte[], [#296187]bleue[] ou [#59367d]violette[] à ajouter à votre main.", " cartes [#9e2a30]rouges[], [#478036]vertes[], [#296187]bleues[] ou [#59367d]violettes[] à ajouter à votre main."]
+        },
+        "jesterMod:Disposophobe": {
+                "NAME": "Disposophobe",
+                "DESCRIPTIONS": ["Recoit #b", " dégats chaque fois que vous défaussez une carte."]
+        },
+        "jesterMod:HedgehogForm": {
+                "NAME": "Forme du Hérisson",
+                "DESCRIPTIONS": ["Au début de chaque tour, gagnez #b", " #yÉpines."]
+        },
+        "jesterMod:Exasperation": {
+                "NAME": "Exaspération",
+                "DESCRIPTIONS": ["Quand vous recevez Faiblesse, Vulnérabilité ou Fragilité, infligez #b"," dégats à TOUS les ennemis."]
+        },
+        "jesterMod:Mending": {
+                "NAME": "Raccomodage",
+                "DESCRIPTIONS": ["Quand vous défaussez une carte, Gagnez #b"," d'Armure."]
+        }
+}

@@ -1,0 +1,114 @@
+{
+  "jesterMod:JesterCap": {
+    "NAME": "Jester's cap",
+    "FLAVOR": "Dreling Dreling.",
+    "DESCRIPTIONS": [
+      "Every time you shuffle your deck, draw a card. NL (Up to 3 times per turn)"
+    ]
+  },
+  "jesterMod:JesterMask": {
+    "NAME": "Jester's mask",
+    "FLAVOR": "Hide your sadness.",
+    "DESCRIPTIONS": [
+      "Every time you shuffle your deck, gain 1 life."
+    ]
+  },
+  "jesterMod:JokerCard": {
+    "NAME": "Joker Card",
+    "FLAVOR": "Phase out of this world.",
+    "DESCRIPTIONS": [
+      "Every 4 times you shuffle your deck, gain 1 intangible."
+    ]
+  },
+  "jesterMod:HauntedLute": {
+    "NAME": "Haunted Lute",
+    "FLAVOR": "Engraves music deep within your soul.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, Gain [E] and discard a random card."
+    ]
+  },
+  "jesterMod:MirrorMask": {
+    "NAME": "Mirror Mask",
+    "FLAVOR": "No U.",
+    "DESCRIPTIONS": [
+      "When you become #bVulnerable, apply as many #bVulnerable to a random enemy. NL When you become #bWeakened, apply as many #bWeakened to a random enemy."
+    ]
+  },
+  "jesterMod:LoadedDice": {
+    "NAME": "Loaded Dice",
+    "FLAVOR": "Cheater !",
+    "DESCRIPTIONS": [
+      "You can choose what cards are discarded when you #brecycle."
+    ]
+  },
+  "jesterMod:IroncladEssence": {
+    "NAME": "Ironclad's Essence",
+    "FLAVOR": "What remains of the ironclad.",
+    "DESCRIPTIONS": [
+      "Red cards can be obtained."
+    ]
+  },
+  "jesterMod:SilentEssence": {
+    "NAME": "Silent's Essence",
+    "FLAVOR": "What remains of the silent.",
+    "DESCRIPTIONS": [
+      "Green cards can be obtained."
+    ]
+  },
+  "jesterMod:DefectEssence": {
+    "NAME": "Defect's Essence",
+    "FLAVOR": "What remains of the defect.",
+    "DESCRIPTIONS": [
+      "Blue cards can be obtained. NL Gain 1 orb slot."
+    ]
+  },
+  "jesterMod:WatcherEssence": {
+    "NAME": "Watcher's Essence",
+    "FLAVOR": "What remains of the watcher.",
+    "DESCRIPTIONS": [
+      "Purple cards can be obtained."
+    ]
+  },
+  "jesterMod:RuskiBroom": {
+    "NAME": "Ruski's Broom",
+    "FLAVOR": "Forget that.",
+    "DESCRIPTIONS": [
+      "When you discard a curse or status, Exhaust it."
+    ]
+  },
+  "jesterMod:PhilosopherAmphora": {
+    "NAME": "Philosopher's Amphora",
+    "FLAVOR": "Smells weird, but you don't have the heart to throw it away.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, Apply 1 #yDisposophobe to a random ennemy."
+    ]
+  },
+  "jesterMod:HarlequinCap": {
+    "NAME": "HarlequinCap",
+    "FLAVOR": "Dreling Dreling !",
+    "DESCRIPTIONS": [
+      "When you shuffle your draw pile, choose a card from your draw pile and add it to your hand. NL (Up to 3 times per turn) NL Replaces #yJester's #yCap."
+    ]
+  },
+  "jesterMod:LargeSleeves": {
+    "NAME": "Large Sleeves",
+    "FLAVOR": "Sneeky sneeky !",
+    "DESCRIPTIONS": [
+      "Every 10 times you discard a card, draw a card."
+    ]
+  },
+  "jesterMod:MachoBrace": {
+    "NAME": "Macho Brace",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "At the start of your turn, Gain [E] . NL You can neither gain nor lose Strength or Dexterity."
+    ]
+  },
+  "jesterMod:BagOfTricks": {
+    "NAME": "Bag of Tricks",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "At the start of battle add a #yPrank to your hand, discard pile and draw pile."
+    ]
+  }
+}

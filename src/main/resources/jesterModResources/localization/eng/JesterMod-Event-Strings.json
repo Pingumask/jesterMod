@@ -1,0 +1,17 @@
+{
+  "jesterMod:IdentityCrisisEvent": {
+    "NAME": "Identity Crisis",
+    "DESCRIPTIONS": [
+      "As you move through ~The~ ~Spire~ you feel like you are loosing your own Identity.",
+      "#g~You~ #g~wish~ #g~to~ #g~become~ #g~someone.~"
+    ],
+    "OPTIONS": [
+      "[Anger] Gain Ironclad's Essence.",
+      "[Denial] Gain Silent's Essence.",
+      "[Bargaining] Gain Defect's Essence.",
+      "[Depression] Gain Watcher's Essence.",
+      "[Acceptance] Gain Prismatic Shard",
+      "[Leave]"
+    ]
+  }
+}

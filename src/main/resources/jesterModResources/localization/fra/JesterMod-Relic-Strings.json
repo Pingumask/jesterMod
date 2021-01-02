@@ -1,0 +1,114 @@
+{
+  "jesterMod:JesterCap": {
+    "NAME": "Bonnet du Bouffon",
+    "FLAVOR": "Dreling Dreling !",
+    "DESCRIPTIONS": [
+      "Quand vous mélangez votre pioche, Piochez une carte. NL (Jusqu'à 3 fois par tour)"
+    ]
+  },
+  "jesterMod:JesterMask": {
+    "NAME": "Masque du bouffon",
+    "FLAVOR": "Cache tes larmes.",
+    "DESCRIPTIONS": [
+      "Quand vous mélangez votre pioche, Gagnez 1 point de vie."
+    ]
+  },
+  "jesterMod:JokerCard": {
+    "NAME": "Carte Joker",
+    "FLAVOR": "Glissez hors de ce monde.",
+    "DESCRIPTIONS": [
+      "Quand vous mélangez 4 fois votre pioche, Gagnez 1 Intangible."
+    ]
+  },
+  "jesterMod:HauntedLute": {
+    "NAME": "Luth Hanté",
+    "FLAVOR": "Grave sa musique au fond de votre âme.",
+    "DESCRIPTIONS": [
+      "Au début de chaque tour, gagnez [E] et défaussez une carte aléatoire."
+    ]
+  },
+  "jesterMod:MirrorMask": {
+    "NAME": "Masque Mirroir",
+    "FLAVOR": "C'est celui qui dit qui est !",
+    "DESCRIPTIONS": [
+      "Quand vous recevez #bVulnérabilité, appliquez autant de #bVulnérabilité à un ennemi aléatoire. NL Quand vous recevez #bFaiblesse, appliquez autant de #bFaiblesse à un ennemi aléatoire."
+    ]
+  },
+  "jesterMod:LoadedDice": {
+    "NAME": "Dé Pipé",
+    "FLAVOR": "Tricheur !",
+    "DESCRIPTIONS": [
+      "Vous pouvez choisir quelles cartes sont défaussées quand vous #brecyclez."
+    ]
+  },
+  "jesterMod:IroncladEssence": {
+    "NAME": "Essence du Soldat de Fer",
+    "FLAVOR": "Ce qu'il reste du Soldat.",
+    "DESCRIPTIONS": [
+      "Les cartes rouges sont disponibles."
+    ]
+  },
+  "jesterMod:SilentEssence": {
+    "NAME": "Essence de la Silencieuse",
+    "FLAVOR": "Ce qu'il reste de la Silencieuse.",
+    "DESCRIPTIONS": [
+      "Les cartes vertes sont disponibles."
+    ]
+  },
+  "jesterMod:DefectEssence": {
+    "NAME": "Essence du Déféctueux",
+    "FLAVOR": "Ce qu'il reste du Défectueux.",
+    "DESCRIPTIONS": [
+      "les cartes bleues sont disponibles."
+    ]
+  },
+  "jesterMod:WatcherEssence": {
+    "NAME": "Essence de la gardienne",
+    "FLAVOR": "Ce qu'il reste de la Gardienne.",
+    "DESCRIPTIONS": [
+      "Les cartes Violettes sont disponibles."
+    ]
+  },
+  "jesterMod:RuskiBroom": {
+    "NAME": "Balai de Ruski",
+    "FLAVOR": "Oubliez ça.",
+    "DESCRIPTIONS": [
+      "Quand vous défaussez une carte de malédiction ou de statut, elle s'épuise."
+    ]
+  },
+  "jesterMod:PhilosopherAmphora": {
+    "NAME": "Amphore du philosophe",
+    "FLAVOR": "Elle a une drôle d'odeur, mais vous n'avez pas le coeur de la jeter.",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, appliquez 1 #yDisposophobe à un ennemi aléatoire."
+    ]
+  },
+  "jesterMod:HarlequinCap": {
+    "NAME": "Chapeau D'Harlequin",
+    "FLAVOR": "Dreling Dreling !",
+    "DESCRIPTIONS": [
+      "Quand vous mélangez votre pioche, choisissez une carte de votre pioche à ajouter à votre main. NL (Jusqu'à 3 fois par tour) NL Remplace le #yBonnet #ydu #yBouffon."
+    ]
+  },
+  "jesterMod:LargeSleeves": {
+    "NAME": "Manches larges",
+    "FLAVOR": "Sneeky sneeky !",
+    "DESCRIPTIONS": [
+      "Chaque fois que vous défaussez votre dixième carte, piochez une carte."
+    ]
+  },
+  "jesterMod:MachoBrace": {
+    "NAME": "Bracelet Macho",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "Au début de chaque tour, gagnez [E] . NL Vous ne pouvez plus ni gagner ni perdre de Force ou de Dextérité."
+    ]
+  },
+  "jesterMod:BagOfTricks": {
+    "NAME": "Sac à malices",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "Au début du combat, ajoutez une #yPlaisanterie à votre main, votre défausse et votre pioche."
+    ]
+  }
+}

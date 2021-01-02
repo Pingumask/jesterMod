@@ -1,0 +1,83 @@
+
+Jester.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jester/Calque_3
+  rotate: false
+  xy: 415, 103
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+jester/Calque_0
+  rotate: false
+  xy: 1, 1
+  size: 267, 98
+  orig: 267, 98
+  offset: 0, 0
+  index: -1
+jester/Calque_4
+  rotate: false
+  xy: 241, 207
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+jester/Calque_7
+  rotate: false
+  xy: 1, 207
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+jester/Calque_2
+  rotate: false
+  xy: 270, 1
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+jester/Calque_5
+  rotate: false
+  xy: 182, 207
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+jester/Calque_1
+  rotate: false
+  xy: 146, 101
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+jester/Calque_10
+  rotate: false
+  xy: 1, 183
+  size: 63, 18
+  orig: 63, 18
+  offset: 0, 0
+  index: -1
+jester/Calque_9
+  rotate: false
+  xy: 252, 145
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+jester/Calque_8
+  rotate: false
+  xy: 1, 101
+  size: 143, 80
+  orig: 143, 80
+  offset: 0, 0
+  index: -1
+jester/Calque_6
+  rotate: false
+  xy: 415, 1
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1

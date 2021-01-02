@@ -1,0 +1,354 @@
+{
+  "jesterMod:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "jesterMod:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "jesterMod:Sickle": {
+    "NAME": "Sickle",
+    "DESCRIPTION": "Deal !D! damage. NL jestermod:Recycle !M!."
+  },
+  "jesterMod:Dodge": {
+    "NAME": "Dodge",
+    "DESCRIPTION": "Gain !B! Block. NL jestermod:Recycle !M!."
+  },
+  "jesterMod:OblivionStrike": {
+    "NAME": "OblivionStrike",
+    "DESCRIPTION": "Deal !D! damage. NL If you have discarded a card this turn, deal !D! damage again."
+  },
+  "jesterMod:DaggerRain": {
+    "NAME": "Dagger Rain",
+    "DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times."
+  },
+  "jesterMod:RecklessStrike": {
+    "NAME": "Reckless Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Frail."
+  },
+  "jesterMod:DancingMad": {
+    "NAME": "Dancing Mad",
+    "DESCRIPTION": "Discard your hand. NL Draw !M! cards. NL jestermod:Elusive.",
+    "UPGRADE_DESCRIPTION": "Discard your hand. NL Draw !M! cards."
+  },
+  "jesterMod:Overthink": {
+    "NAME": "Overthink",
+    "DESCRIPTION": "jestermod:Recycle !M!. NL Gain [E]. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "jestermod:Recycle !M!. NL Gain [E] [E]. NL Exhaust."
+  },
+  "jesterMod:FlameDance": {
+    "NAME": "Flame Dance",
+    "DESCRIPTION": "Gain !B! Block. NL Whenever you are attacked this turn, deal !M! damage back."
+  },
+  "jesterMod:Frenzy": {
+    "NAME": "Frenzy",
+    "DESCRIPTION": "Whenever you play an attack, gain !M! temporary Strength. NL Whenever you play a skill, Gain !M! temporary Dexterity.",
+    "UPGRADE_DESCRIPTION": "Whenever you play an attack, gain !M! temporary Strength. NL Whenever you play a skill, Gain !M! temporary Dexterity. NL Innate."
+  },
+  "jesterMod:Swiftness": {
+    "NAME": "Swiftness",
+    "DESCRIPTION": "Gain !M! *Plated *Armor."
+  },
+  "jesterMod:Contradiction": {
+    "NAME": "Contradiction",
+    "DESCRIPTION": "Whenever Weak, Vulnerable or Frail is applied to you, gain !M! Strength.",
+    "UPGRADE_DESCRIPTION": "Whenever Weak, Vulnerable or Frail is applied to you, gain !M! Strength. NL Innate."
+  },
+  "jesterMod:SmokeScreen": {
+    "NAME": "Smoke Screen",
+    "DESCRIPTION": "Apply !M! Weak to every monster. NL Gain 1 Weak."
+  },
+  "jesterMod:TrickyDodge": {
+    "NAME": "Tricky Dodge",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Weak."
+  },
+  "jesterMod:Leeches": {
+    "NAME": "Leeches",
+    "DESCRIPTION": "Lose !M! HP. NL Gain !jesterMod:SecondMagic! *Regeneration."
+  },
+  "jesterMod:BoilDown": {
+    "NAME": "Boil Down",
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal obtain a random potion."
+  },
+  "jesterMod:Tinker": {
+    "NAME": "Tinker",
+    "DESCRIPTION": "Deal !D! damage. NL Upgrade a card in your hand for the rest of combat.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Upgrade all cards in your hand for the rest of combat."
+  },
+  "jesterMod:Discretion": {
+    "NAME": "Discretion",
+    "DESCRIPTION": "Block is not removed at the start of your next turn. NL Exhaust",
+    "UPGRADE_DESCRIPTION": "Block is not removed at the start of your next turn."
+  },
+  "jesterMod:SwiftDodge": {
+    "NAME": "Swift Dodge",
+    "DESCRIPTION": "Gain !B! Block. NL Can be upgraded any number of times."
+  }
+  ,
+  "jesterMod:Prank": {
+    "NAME": "Prank",
+    "DESCRIPTION": "jestermod:Recycle !M!. NL Exhaust. NL jestermod:Bouncing.",
+    "UPGRADE_DESCRIPTION": "jestermod:Recycle !M!. NL Exhaust. NL jestermod:Bouncing, Retain."
+  },
+  "jesterMod:Prankster": {
+    "NAME": "Prankster",
+    "DESCRIPTION": "Add a *Prank to your hand each turn.",
+    "UPGRADE_DESCRIPTION": "Add a *Prank to your hand each turn. NL Innate."
+  },
+  "jesterMod:Haste": {
+    "NAME": "Haste",
+    "DESCRIPTION": "Unplayable. NL When you draw this card, draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL When you draw this card, draw !M! cards. NL jestermod:Elusive."
+  },
+  "jesterMod:Flee": {
+    "NAME": "Flee",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "Unplayable, jestermod:Bouncing. NL If this card is discarded from your hand, gain !B! Block."
+  },
+  "jesterMod:Unleash": {
+    "NAME": "Unleash",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, deal !D! damage to ALL enemies."
+  },
+  "jesterMod:Dilapidation": {
+    "NAME": "Dilapidation",
+    "DESCRIPTION": "Deal !D! damage. NL Discard all cards in your hand."
+  },
+  "jesterMod:JackInTheBox": {
+    "NAME": "Jack In The Box",
+    "DESCRIPTION": "Deal !D! damage. NL Add a *Prank to your draw pile."
+  },
+  "jesterMod:Sacrifice": {
+    "NAME": "Sacrifice",
+    "DESCRIPTION": "Deal yourself damage equal to the enemy's current HP. NL Reduce the enemy's HP to 0."
+  },
+  "jesterMod:Drunkenness": {
+    "NAME": "Drunkenness",
+    "DESCRIPTION": "At the start of your turn, gain !M! to !jesterMod:SecondMagic! Strength and !M! to !jesterMod:SecondMagic! Dexterity.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, gain !M! to !jesterMod:SecondMagic! Strength and !M! to !jesterMod:SecondMagic! Dexterity. NL Innate."
+  },
+  "jesterMod:Momentum": {
+    "NAME": "Momentum",
+    "DESCRIPTION": "At the start of your turn, gain 1 *Plated *Armor."
+  },
+  "jesterMod:MudBall": {
+    "NAME": "Mud Ball",
+    "DESCRIPTION": "Deal !D! damage. NL Add a *Slimed to your draw pile."
+  },
+  "jesterMod:Patience": {
+    "NAME": "Patience",
+    "DESCRIPTION": "Gain [E] [E] [E] and draw !M! cards next turn."
+  },
+  "jesterMod:Detonate": {
+    "NAME": "Detonate",
+    "DESCRIPTION": "Unplayable. NL Deal !M! damage to ALL enemies when drawn. NL Ethereal."
+  },
+  "jesterMod:LightTheWick": {
+    "NAME": "Light the Wick",
+    "DESCRIPTION": "Add a *Detonate to your discard pile.",
+    "UPGRADE_DESCRIPTION": "Add a *Detonate to your draw pile."
+  },
+  "jesterMod:Talion": {
+    "NAME": "Talion",
+    "DESCRIPTION": "Deal !D! damage to the enemy for each time you lost HP this combat.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Attacks !M! times.)"
+    ]
+  },
+  "jesterMod:Frustration": {
+    "NAME": "Frustration",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Only playable if you are Frail, Vulnerable or Weak.",
+    "EXTENDED_DESCRIPTION": [
+      "I feel fine."
+    ]
+  },
+  "jesterMod:Loot": {
+    "NAME": "Loot",
+    "DESCRIPTION": "Gain !M! Gold. NL Exhaust."
+  },
+  "jesterMod:Inspiration": {
+    "NAME": "Inspiration",
+    "DESCRIPTION": "Unplayable. NL Gain [E] when drawn.",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL Gain [E] when drawn. NL jestermod:Elusive."
+  },
+  "jesterMod:Hide": {
+    "NAME": "Hide",
+    "DESCRIPTION": "Gain !B! Block. NL Replace this card with a *Seek.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Replace this card with a *Seek+."
+  },
+  "jesterMod:Seek": {
+    "NAME": "Seek",
+    "DESCRIPTION": "Deal !D! damage. NL Replace this card with a *Hide.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Replace this card with a *Hide+."
+  },
+  "jesterMod:Twirl": {
+    "NAME": "Twirl",
+    "DESCRIPTION": "Deal !D! damage. NL If you are Vulnerable, gain [E] and draw 1 card."
+  },
+  "jesterMod:JugglerBlade": {
+    "NAME": "Juggler blade",
+    "DESCRIPTION": "Deal !D! damage to a random enemy for each card discarded this turn.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Attacks !M! times.)",
+      ""
+    ]
+  },
+  "jesterMod:Procrastination": {
+    "NAME": "Procrastination",
+    "DESCRIPTION": "Discard your hand. NL Draw that many cards next turn. NL Exhaust."
+  },
+  "jesterMod:Juggle": {
+    "NAME": "Juggle",
+    "DESCRIPTION": "Discard your hand. NL Add that many *Juggling *Balls to your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Discard your hand. NL Add that many *Juggling *Balls+ to your hand. NL Exhaust."
+  },
+  "jesterMod:JugglingBall": {
+    "NAME": "Juggling Ball",
+    "DESCRIPTION": "Unplayable NL jestermod:Bouncing, Ethereal. NL When this card is Discarded or Exhausted, deal !M! damage to a random enemy."
+  },
+  "jesterMod:Anticipation": {
+    "NAME": "Anticipation",
+    "DESCRIPTION": "Gain !B! Block next turn."
+  },
+  "jesterMod:Pause": {
+    "NAME": "Pause",
+    "DESCRIPTION": "Discard your hand. NL Gain [E] next turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Discard your hand. NL Gain [E] [E] next turn. NL Exhaust."
+  },
+  "jesterMod:DanceOfChaos": {
+    "NAME": "Dance of Chaos",
+    "DESCRIPTION": "Play the top X cards from your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Play the top X cards from your draw pile."
+  },
+  "jesterMod:Illness": {
+    "NAME": "Illness",
+    "DESCRIPTION": "Apply !M! Weak. NL Exhaust."
+  },
+  "jesterMod:ButterflyDance": {
+    "NAME": "Butterfly Dance",
+    "DESCRIPTION": "Shuffle X random attacks, skills AND powers into your draw pile. They cost 0 this combat. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Shuffle X random attacks, skills AND powers into your draw pile. They cost 0 this combat. NL Exhaust."
+  },
+  "jesterMod:Feint": {
+    "NAME": "Feint",
+    "DESCRIPTION": "Deal !D! damage. NL Draw a card for each card discarded this turn",
+    "EXTENDED_DESCRIPTION": [" NL (Draw !M! cards.)"]
+  },
+  "jesterMod:Trance": {
+    "NAME": "Trance",
+    "DESCRIPTION": "Deal !D! damage to a random enemy. NL Discard the top card from your draw pile, if this is a skill card, play *Trance again."
+  },
+  "jesterMod:Precipitation": {
+    "NAME": "Precipitation",
+    "DESCRIPTION": "When you shuffle your draw pile, deal !M! damage to ALL enemies."
+  },
+  "jesterMod:HitAndRun": {
+    "NAME": "Hit & Run",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block at the start of your next turn."
+  },
+  "jesterMod:QuickStrike": {
+    "NAME": "Quick Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Draw a card at the start of your next turn."
+  },
+  "jesterMod:Juggler": {
+    "NAME": "Juggler",
+    "DESCRIPTION": "When you discard a card, add a *Juggling *Ball to your hand."
+  },
+  "jesterMod:Arrythmia": {
+    "NAME": "Arrythmia",
+    "DESCRIPTION": "Alternatively gain [E] [E] or lose [E] at the start of your turn.",
+    "UPGRADE_DESCRIPTION": "Alternatively gain [E] [E] or lose [E] at the start of your turn. NL Innate."
+  },
+  "jesterMod:Pillage": {
+    "NAME": "Pillage",
+    "DESCRIPTION": "Choose a *Feed, *Lesson *Learned, *Boil *Down or *Hand *of *Greed to add to your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose a *Feed, *Lesson *Learned, *Boil *Down or *Hand *of *Greed to add to your hand. NL Exhaust, Retain."
+  },
+  "jesterMod:Schizophrenia": {
+    "NAME": "Schizophrenia",
+    "DESCRIPTION": "At the start of your turn, choose a [#9e2a30]red[], [#478036]green[], [#296187]blue[] or [#59367d]purple[] card to add to your hand."
+  },
+  "jesterMod:Disposophobia": {
+    "NAME": "Disposophobia",
+    "DESCRIPTION": "When you discard a card, deal !M! damage to this enemy. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "When you discard a card, deal !M! damage to ALL enemies. NL Exhaust."
+  },
+  "jesterMod:HedgehogForm": {
+    "NAME": "Hedgehog Form",
+    "DESCRIPTION": "At the start of your turn, gain !M! thorns."
+  },
+  "jesterMod:Finale": {
+    "NAME": "Finale",
+    "DESCRIPTION": "Deal !D! damage. NL You cannot gain block from cards for !M! turns. NL Exhaust."
+  },
+  "jesterMod:Placebo": {
+    "NAME": "Placebo",
+    "DESCRIPTION": "Gain 1 Artifact. NL jestermod:Elusive, jestermod:Buried.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Artifact. NL jestermod:Buried."
+  },
+  "jesterMod:Squander": {
+    "NAME": "Squander",
+    "DESCRIPTION": "Discard the top !M! cards from your draw pile."
+  },
+  "jesterMod:Encore": {
+    "NAME": "Encore",
+    "DESCRIPTION": "Replays the previous card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Replays the previous card. NL Exhaust, jestermod:Bouncing.",
+    "EXTENDED_DESCRIPTION": [
+      "I haven't played any card yet.",
+      "I'm afraid this is a bad idea."
+    ]
+  },
+  "jesterMod:ButterKnife": {
+    "NAME": "Butter Knife",
+    "DESCRIPTION": "Deal !D! damage. NL jestermod:Elusive."
+  },
+  "jesterMod:Taunt": {
+    "NAME": "Taunt",
+    "DESCRIPTION": "Apply !M! Vulnerable to every monster. NL Gain 1 Vulnerable."
+  },
+  "jesterMod:Exasperation": {
+    "NAME": "Exasperation",
+    "DESCRIPTION": "Whenever Weak, Vulnerable or Frail is applied to you, deal !M! damage to ALL enemies."
+  },
+  "jesterMod:Mending": {
+    "NAME": "Mending",
+    "DESCRIPTION": "When you discard a card, gain !M! Block.",
+    "UPGRADE_DESCRIPTION": "When you discard a card, gain !M! Block. NL Innate."
+  },
+  "jesterMod:Hopeless": {
+    "NAME": "Hopeless",
+    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Vulnerable and 1 Weakened. NL Ethereal."
+  },
+  "jesterMod:DesperateStrike": {
+    "NAME": "Desperate Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Add a *Hopeless to your hand. NL jestermod:Recycle 1."
+  },
+  "jesterMod:SelfMockery": {
+    "NAME": "Self-Mockery",
+    "DESCRIPTION": "Gain !B! Block. NL Add a *Prank to your draw pile."
+  },
+  "jesterMod:Rebuff": {
+    "NAME": "Rebuff",
+    "DESCRIPTION": "Deal !D! damage. NL If you are Weakened, deal !D! damage again."
+  },
+  "jesterMod:ExperimentalTreatment": {
+    "NAME": "Experimental Treatment",
+    "DESCRIPTION": "Remove any Weak, Frail and Vulnerable you have. NL Gain as many HP. NL jestermod:Buried, Exhaust.",
+    "EXTENDED_DESCRIPTION": [" NL (Gain !M! HP)."]
+  },
+  "jesterMod:BouncingKnife": {
+    "NAME": "Bouncing Knife",
+    "DESCRIPTION": "Deal !D! damage. NL When discarded, deal !M! damage to a random enemy. NL jestermod:Bouncing."
+  },
+  "jesterMod:PerfectDodge": {
+    "NAME": "Perfect Dodge",
+    "DESCRIPTION": "Prevent the next time you would lose HP. NL You cannot gain block from cards until the end of your next turn."
+  },
+  "jesterMod:LaughingGas": {
+    "NAME": "Laughing Gas",
+    "DESCRIPTION": "Apply !M! Strength. NL jestermod:Buried, jestermod:Elusive.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Strength to ALL enemies. NL jestermod:Buried, jestermod:Elusive."
+  }
+}

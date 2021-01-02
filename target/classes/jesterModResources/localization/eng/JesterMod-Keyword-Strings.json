@@ -1,0 +1,31 @@
+[
+  {
+    "PROPER_NAME": "Recycle",
+    "NAMES": [
+      "Recycle",
+      "recycle"
+    ],
+    "DESCRIPTION": "Discard X cards and draw as many cards."
+  },
+  {
+    "NAMES": [
+      "Elusive",
+      "elusive"
+    ],
+    "DESCRIPTION": "When this card is drawn, you have 50% chance to discard it and draw another card."
+  },
+  {
+    "NAMES": [
+      "Buried",
+      "buried"
+    ],
+    "DESCRIPTION": "At the start of battle, this card is discarded from your draw pile."
+  },
+  {
+    "NAMES": [
+      "Bouncing",
+      "bouncing"
+    ],
+    "DESCRIPTION": "When this card is discarded, it goes back to your hand."
+  }
+]

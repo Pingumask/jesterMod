@@ -1,0 +1,54 @@
+{
+        "jesterMod:Frenzy": {
+                "NAME": "Frenzy",
+                "DESCRIPTIONS": ["Gain #b", " temporary Strength when you play an attack. NL Gain #b"," temporary Dexterity when you play a skill."]
+        },
+        "jesterMod:Contradictory": {
+                "NAME": "Contradictory",
+                "DESCRIPTIONS": ["When Weak, Vulnerable or Frail is applied to you, NL Gain #b"," Strength."]
+        },
+        "jesterMod:Prankster": {
+                "NAME": "Prankster",
+                "DESCRIPTIONS": ["Add #b", " #yPrank to your hand each turn."," #yPranks to your hand each turn."]
+        },
+        "jesterMod:Drunkenness": {
+                "NAME": "Drunkenness",
+                "DESCRIPTIONS": ["At the start of your turn, gain #b", " to #b", " Strength and Dexterity."]
+        },
+        "jesterMod:Momentum": {
+                "NAME": "Momentum",
+                "DESCRIPTIONS": ["At the start of your turn, gain #b", " Plated Armor."]
+        },
+        "jesterMod:Precipitation": {
+                "NAME": "Precipitation",
+                "DESCRIPTIONS": ["When you shuffle your draw pile, deal #b", " damage to ALL enemies."]
+        },
+        "jesterMod:Juggler": {
+                "NAME": "Juggler",
+                "DESCRIPTIONS": ["When you discard a card, add #b", " #yJuggling #yBalls to your hand."]
+        },
+        "jesterMod:Arrythmia": {
+                "NAME": "Arrythmia",
+                "DESCRIPTIONS": ["Alternatively gain ", "or lose [E] at the start of each turn. NL ","#bGain #yEnergy #bnext #bturn.","#bLose #yEnergy #bnext #bturn."]
+        },
+        "jesterMod:Schizophrenia": {
+                "NAME": "Schizophrenia",
+                "DESCRIPTIONS": ["At the start of your turn, choose #b", " [#9e2a30]red[], [#478036]green[], [#296187]blue[] or [#59367d]purple[] card to add to your hand.", " [#9e2a30]red[], [#478036]green[], [#296187]blue[] or [#59367d]purple[] cards to add to your hand."]
+        },
+        "jesterMod:Disposophobe": {
+                "NAME": "Disposophobe",
+                "DESCRIPTIONS": ["Takes #b", " Damages every time you discard a card."]
+        },
+        "jesterMod:HedgehogForm": {
+                "NAME": "Hedgehog Form",
+                "DESCRIPTIONS": ["At the start of your turn, gain #b", " #yThorns."]
+        },
+        "jesterMod:Exasperation": {
+                "NAME": "Exasperation",
+                "DESCRIPTIONS": ["When Weak, Vulnerable or Frail is applied to you, Deal #b"," damage to ALL enemy."]
+        },
+        "jesterMod:Mending": {
+                "NAME": "Mending",
+                "DESCRIPTIONS": ["When you discard a card, Gain #b"," Block."]
+        }
+}

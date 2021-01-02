@@ -1,0 +1,35 @@
+[
+  {
+    "PROPER_NAME": "Recyclage",
+    "NAMES": [
+      "Recyclage",
+      "recyclage",
+      "recyclez"
+    ],
+    "DESCRIPTION": "Défaussez aléatoirement X cartes puis piochez le même nombre de cartes."
+  },
+  {
+    "PROPER_NAME": "Évasive",
+    "NAMES": [
+      "Évasive",
+      "évasive"
+    ],
+    "DESCRIPTION": "Quand vous piochez cette carte, vous avez 50% de chance de la défausser et de piocher une autre carte à sa place."
+  },
+  {
+    "PROPER_NAME": "Enterrer",
+    "NAMES": [
+      "Enterrée",
+      "enterrée"
+    ],
+    "DESCRIPTION": "Au début du combat, cette carte est défaussée de la pioche."
+  },
+  {
+    "PROPER_NAME": "Rebond",
+    "NAMES": [
+      "Rebondissante",
+      "rebondissante"
+    ],
+    "DESCRIPTION": "Quand cette carte est défaussée, elle retourne dans votre main."
+  }
+]
