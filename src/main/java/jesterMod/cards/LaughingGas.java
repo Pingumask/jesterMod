@@ -33,7 +33,7 @@ public class LaughingGas extends AbstractJesterCard {
     public LaughingGas() {
         super(ID, IMG, COST, TYPE, COLOR, RARITY, TARGET);
         magicNumber = baseMagicNumber = DEBUFF;
-        this.exhaust=true;
+        this.exhaust=false;
         this.isElusive = true;
         GraveField.grave.set(this, true);
     }
