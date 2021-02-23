@@ -128,7 +128,9 @@ public class TheJester extends CustomPlayer {
         retVal.add(Strike.ID);
         retVal.add(Strike.ID);
         retVal.add(Strike.ID);
+        retVal.add(Strike.ID);
         retVal.add(Sickle.ID);
+        retVal.add(Defend.ID);
         retVal.add(Defend.ID);
         retVal.add(Defend.ID);
         retVal.add(Defend.ID);
