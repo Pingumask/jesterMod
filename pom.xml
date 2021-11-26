@@ -6,7 +6,7 @@
     <groupId>fr.pingumask.jesterMod</groupId>
     <artifactId>jesterMod</artifactId>
     <name>JesterMod</name>
-    <version>0.10.2</version>
+    <version>0.11.0</version>
     <description>Adds the Jester character with his own deck and relics.</description>
 
     <properties>

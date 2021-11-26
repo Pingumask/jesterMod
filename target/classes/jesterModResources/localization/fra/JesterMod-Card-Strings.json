@@ -343,7 +343,7 @@
     "DESCRIPTION": "Infligez !D! dégats. NL Quand défaussée, infligez !M! dégats à un ennemi aléatoire. NL jestermod:Rebondissante."
   },
   "jesterMod:PerfectDodge": {
-    "NAME": "Perfect Dodge",
+    "NAME": "Esquive parfaite",
     "DESCRIPTION": "Empêche votre prochaine perte de PV. NL Vous ne pouvez plus gagner d'Armure avec des cartes jusqu'à la fin de votre prochain tour."
   },
   "jesterMod:LaughingGas": {

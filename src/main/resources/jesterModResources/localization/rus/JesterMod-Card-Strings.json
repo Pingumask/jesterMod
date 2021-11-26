@@ -1,0 +1,358 @@
+﻿{
+  "jesterMod:Strike": {
+    "NAME": "Удар",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+  "jesterMod:Defend": {
+    "NAME": "Оборона",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+  "jesterMod:Sickle": {
+    "NAME": "Серп",
+    "DESCRIPTION": "Наносит !D! урона. NL jestermod:Прокручивает !M! карту.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL jestermod:Прокручивает !M! карты."
+  },
+  "jesterMod:Dodge": {
+    "NAME": "Уворот",
+    "DESCRIPTION": "Даёт !B! Защиты. NL jestermod:Прокручивает !M! карту."
+  },
+  "jesterMod:OblivionStrike": {
+    "NAME": "Удар Забвения",
+    "DESCRIPTION": "Наносит !D! урона. NL Наносит !D! урона ещё раз, если вы сбрасывали карты в этом ходу"
+  },
+  "jesterMod:DaggerRain": {
+    "NAME": "Шквал Кинжалов",
+    "DESCRIPTION": "Наносит !D! урона !M! раз. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона !M! раз."
+  },
+  "jesterMod:RecklessStrike": {
+    "NAME": "Отчаянный Удар",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! Хрупкость."
+  },
+  "jesterMod:DancingMad": {
+    "NAME": "Безумный Танец",
+    "DESCRIPTION": "jestermod:Скользкая. NL Сбрасывает все NL карты в руке. NL Вы берёте !M! карты.",
+    "UPGRADE_DESCRIPTION": "Сбрасывает все NL карты в руке. NL Вы берёте !M! карты."
+  },
+  "jesterMod:Overthink": {
+    "NAME": "Передумать",
+    "DESCRIPTION": "jestermod:Прокручивает !M! карты. NL Даёт [E]. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "jestermod:Прокручивает !M! карты. NL Даёт [E] [E]. NL Сжигается."
+  },
+  "jesterMod:FlameDance": {
+    "NAME": "Танцующий Огонёк",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Наносит врагу !M! урона в ответ на каждую атаку в этом ходу."
+  },
+  "jesterMod:Frenzy": {
+    "NAME": "Неистовство",
+    "DESCRIPTION": "Даёт !M! временной Силы, когда вы разыгрываете Атаку. NL Даёт !M! временной Ловкости, когда вы разыгрываете Навык.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Даёт !M! временной Силы, когда вы разыгрываете Атаку. NL Даёт !M! временной Ловкости, когда вы разыгрываете Навык."
+  },
+  "jesterMod:Swiftness": {
+    "NAME": "Стремительность",
+    "DESCRIPTION": "Даёт !M! *Панциря."
+  },
+  "jesterMod:Contradiction": {
+    "NAME": "Противоречие",
+    "DESCRIPTION": "Даёт !M! Силы, когда вы получаете Слабость, Уязвимость или Хрупкость.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Даёт !M! Силы, когда вы получаете Слабость, Уязвимость или Хрупкость."
+  },
+  "jesterMod:SmokeScreen": {
+    "NAME": "Дымовая Завеса",
+    "DESCRIPTION": "Накладывает !M! Слабости на ВСЕХ врагов. NL Даёт 1 Слабости."
+  },
+  "jesterMod:TrickyDodge": {
+    "NAME": "Каверзный Уворот",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !M! Слабости."
+  },
+  "jesterMod:Leeches": {
+    "NAME": "Пиявки",
+    "DESCRIPTION": "Отнимает !M! ОЗ. NL Даёт !jesterMod:SecondMagic! *Регенерации."
+  },
+  "jesterMod:BoilDown": {
+    "NAME": "Выпарить",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт случ. зелье, если Казнит врага."
+  },
+  "jesterMod:Tinker": {
+    "NAME": "Лудильщик",
+    "DESCRIPTION": "Наносит !D! урона. NL Улучшает карту в руке до конца боя.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Улучшает ВСЕ карты в руке до конца боя."
+  },
+  "jesterMod:Discretion": {
+    "NAME": "Осмотрительность",
+    "DESCRIPTION": "Защита не исчезнет в начале вашего след. хода. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Защита не исчезнет в начале вашего след. хода."
+  },
+  "jesterMod:SwiftDodge": {
+    "NAME": "Быстрый Уворот",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Можно Улучшать неограниченное количество раз."
+  },
+  "jesterMod:Prank": {
+    "NAME": "Пранк",
+    "DESCRIPTION": "jestermod:Прокручивает !M! карты. NL Сжигается. NL jestermod:Отскакивает.",
+    "UPGRADE_DESCRIPTION": "Оставляется. NL jestermod:Прокручивает !M! карты. NL Сжигается. NL jestermod:Отскакивает."
+  },
+  "jesterMod:Prankster": {
+    "NAME": "Пранкстер",
+    "DESCRIPTION": "Добавляет карту *Пранк в руку в начале каждого вашего хода.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет карту *Пранк в руку в начале каждого вашего хода."
+  },
+  "jesterMod:Haste": {
+    "NAME": "Спешка",
+    "DESCRIPTION": "Неиграбельная. NL Вы берёте !M! карты, когда берёте эту карту.",
+    "UPGRADE_DESCRIPTION": "Неиграбельная. NL jestermod:Скользкая. NL Вы берёте !M! карты, когда берёте эту карту."
+  },
+  "jesterMod:Flee": {
+    "NAME": "Побег",
+    "DESCRIPTION": "Неиграбельная. NL Даёт !B! Защиты, когда эта карта сбрасывается.",
+    "UPGRADE_DESCRIPTION": "Неиграбельная. NL Даёт !B! Защиты, когда эта карта сбрасывается. NL jestermod:Отскакивает."
+  },
+  "jesterMod:Unleash": {
+    "NAME": "Высвобождение",
+    "DESCRIPTION": "Неиграбельная. NL Наносит !D! урона ВСЕМ врагам, когда эта карта сбрасывается."
+  },
+  "jesterMod:Dilapidation": {
+    "NAME": "Кризис",
+    "DESCRIPTION": "Наносит !D! урона. NL Вы сбрасываете все карты в руке."
+  },
+  "jesterMod:JackInTheBox": {
+    "NAME": "Чёрт из Табакерки",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет карту *Пранк в стопку добора."
+  },
+  "jesterMod:Sacrifice": {
+    "NAME": "Жертвоприношение",
+    "DESCRIPTION": "Наносит вам урон, раный ОЗ врага. NL Снижает его ОЗ до 0."
+  },
+  "jesterMod:Drunkenness": {
+    "NAME": "Пьянство",
+    "DESCRIPTION": "Случайно даёт от !M! до !jesterMod:SecondMagic! Силы и от !M! до !jesterMod:SecondMagic! Ловкости в начале каждого вашего хода.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Случайно даёт от !M! до !jesterMod:SecondMagic! Силы и от !M! до !jesterMod:SecondMagic! Ловкости в начале каждого вашего хода."
+  },
+  "jesterMod:Momentum": {
+    "NAME": "Импульс",
+    "DESCRIPTION": "Даёт 1 *Панциря в начале каждого вашего хода."
+  },
+  "jesterMod:MudBall": {
+    "NAME": "Комок Грязи",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет *В *слизи в стопку добора."
+  },
+  "jesterMod:Patience": {
+    "NAME": "Терпение",
+    "DESCRIPTION": "Вы возьмёте !M! карты и получите [E] [E] [E] в след. ходу."
+  },
+  "jesterMod:Detonate": {
+    "NAME": "Детонация",
+    "DESCRIPTION": "Неиграбельная. NL Эфирная. NL Наносит !M! урона ВСЕМ врагам, когда вы берёте эту карту."
+  },
+  "jesterMod:LightTheWick": {
+    "NAME": "Поджечь Фитиль",
+    "DESCRIPTION": "Добавляет карту *Детонация в стопку сброса.",
+    "UPGRADE_DESCRIPTION": "Добавляет карту *Детонация в стопку добора."
+  },
+  "jesterMod:Talion": {
+    "NAME": "Талион",
+    "DESCRIPTION": "Наносит !D! урона за каждую вашу потерю ОЗ в этом бою.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Атакует !M! раз(а).)"
+    ]
+  },
+  "jesterMod:Frustration": {
+    "NAME": "Фрустрация",
+    "DESCRIPTION": "Можно разыграть, только если на вас наложена Слабость, Уязвимость или Хрупкость. NL Наносит !D! урона ВСЕМ врагам.",
+    "EXTENDED_DESCRIPTION": [
+      "Я чувствую себя прекрасно!"
+    ]
+  },
+  "jesterMod:Loot": {
+    "NAME": "Добыча",
+    "DESCRIPTION": "Даёт !M! *Золота. NL Сжигается."
+  },
+  "jesterMod:Inspiration": {
+    "NAME": "Вдохновение",
+    "DESCRIPTION": "Неиграбельная. NL Даёт [E] , когда вы берёте эту карту.",
+    "UPGRADE_DESCRIPTION": "Неиграбельная. NL jestermod:Скользкая. NL Даёт [E] , когда вы берёте эту карту."
+  },
+  "jesterMod:Hide": {
+    "NAME": "Мышки",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Заменяет эту карту на *Кошки.",
+    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Заменяет эту карту на *Кошки+."
+  },
+  "jesterMod:Seek": {
+    "NAME": "Кошки",
+    "DESCRIPTION": "Наносит !D! урона. NL Заменяет эту карту на *Мышки.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Заменяет эту карту на *Мышки+."
+  },
+  "jesterMod:Twirl": {
+    "NAME": "Вертеться",
+    "DESCRIPTION": "Наносит !D! урона. NL Если на вас наложена Уязвимость, то вы получаете [E] и берёте 1 карту."
+  },
+  "jesterMod:JugglerBlade": {
+    "NAME": "Клинок Жонглёра",
+    "DESCRIPTION": "Наносит !D! урона случ. врагу за каждую карту, сброшенную в этом ходу.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Атакует !M! раз(а).)",
+      ""
+    ]
+  },
+  "jesterMod:Procrastination": {
+    "NAME": "Прокрастинация",
+    "DESCRIPTION": "Вы сбрасываете все карты в руке. NL Вы возьмёте столько же карт в след. ходу. NL Сжигается."
+  },
+  "jesterMod:Juggle": {
+    "NAME": "Жонглировать",
+    "DESCRIPTION": "Вы сбрасываете все карты в руке. NL Добавляет в руку по 1 *Мячику *Жонглёра за каждую из них. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Вы сбрасываете все карты в руке. NL Добавляет в руку по 1 *Мячику *Жонглёра+ за каждую из них. NL Сжигается."
+  },
+  "jesterMod:JugglingBall": {
+    "NAME": "Мячик Жонглёра",
+    "DESCRIPTION": "Неиграбельная. NL Эфирная. NL Наносит !M! урона случ. врагу, когда эта карта сбрасывается или сжигается. NL jestermod:Отскакивает."
+  },
+  "jesterMod:Anticipation": {
+    "NAME": "Предвкушение",
+    "DESCRIPTION": "Даёт !B! Защиты в начале вашего след. хода."
+  },
+  "jesterMod:Pause": {
+    "NAME": "Пауза",
+    "DESCRIPTION": "Вы сбрасываете все карты в руке. NL Даёт [E] в след. ходу. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Вы сбрасываете все карты в руке. NL Даёт [E] [E] в след. ходу. NL Сжигается."
+  },
+  "jesterMod:DanceOfChaos": {
+    "NAME": "Dance of Chaos",
+    "DESCRIPTION": "Вы разыгрываете Х карт с верха стопки добора. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Вы разыгрываете Х карт с верха стопки добора."
+  },
+  "jesterMod:Illness": {
+    "NAME": "Болезнь",
+    "DESCRIPTION": "Накладывает !M! Слабости. NL Сжигается."
+  },
+  "jesterMod:ButterflyDance": {
+    "NAME": "Танец Бабочки",
+    "DESCRIPTION": "Добавляет Х случ. Атак, Навыков И Талантов в стопку добора. Они стоят 0 в этом бою. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет Х случ. Атак, Навыков И Талантов в стопку добора. Они стоят 0 в этом бою. NL Сжигается."
+  },
+  "jesterMod:Feint": {
+    "NAME": "Финт",
+    "DESCRIPTION": "Наносит !D! урона. NL Вы берёте карту за каждую карту, сброшенную в этом ходу.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Вы берёте !M! карт(ы).)"
+    ]
+  },
+  "jesterMod:Trance": {
+    "NAME": "Транс",
+    "DESCRIPTION": "Наносит !D! урона случ. врагу. NL Сбрасывает карту с верха стопки добора. Разгрывает *Транс снова, если был сброшен Навык."
+  },
+  "jesterMod:Precipitation": {
+    "NAME": "Порывистость",
+    "DESCRIPTION": "Наносит !M! урона ВСЕМ врагам при перетасовке колоды."
+  },
+  "jesterMod:HitAndRun": {
+    "NAME": "Бей и Беги",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !B! Защиты в начале вашего след. хода."
+  },
+  "jesterMod:QuickStrike": {
+    "NAME": "Быстрый Удар",
+    "DESCRIPTION": "Наносит !D! урона. NL В след. ходу вы возьмёте на 1 карту больше."
+  },
+  "jesterMod:Juggler": {
+    "NAME": "Жонглёр",
+    "DESCRIPTION": "Добавляет *Мячик *Жонглёра в руку, когда вы сбрасываете карту."
+  },
+  "jesterMod:Arrythmia": {
+    "NAME": "Аритмия",
+    "DESCRIPTION": "По очереди даёт [E] [E] или отнимает [E] в начале каждого вашего хода.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL По очереди даёт [E] [E] или отнимает [E] в начале каждого вашего хода."
+  },
+  "jesterMod:Pillage": {
+    "NAME": "Мародёрство",
+    "DESCRIPTION": "Добавляет в руку одну из карт на выбор: *Сожрать, *Усвоенный *урок, *Выпарить или *Алчущая *длань. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Оставляется. NL Добавляет в руку одну из карт на выбор: *Сожрать, *Усвоенный *урок, *Выпарить или *Алчущая *длань. NL Сжигается."
+  },
+  "jesterMod:Schizophrenia": {
+    "NAME": "Шизофрения",
+    "DESCRIPTION": "Добавляет в руку одну [#9e2a30]красную[], [#478036]зелёную[], [#296187]синюю[] ИЛИ [#59367d]фиолетовую[] карту на выбор в начале каждого вашего хода."
+  },
+  "jesterMod:Disposophobia": {
+    "NAME": "Диспозофобия",
+    "DESCRIPTION": "Наносит !M! урона выбранному врагу, когда вы сбрасываете карту. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Наносит !M! урона ВСЕМ врагам, когда вы сбрасываете карту. NL Сжигается."
+  },
+  "jesterMod:HedgehogForm": {
+    "NAME": "Облик Ежа",
+    "DESCRIPTION": "Даёт !M! *Шипов в начале каждого вашего хода."
+  },
+  "jesterMod:Finale": {
+    "NAME": "Финал",
+    "DESCRIPTION": "Наносит !D! урона. NL Вы не можете получать Защиту от карт !M! хода. NL Сжигается."
+  },
+  "jesterMod:Placebo": {
+    "NAME": "Плацебо",
+    "DESCRIPTION": "jestermod:Скользкая. NL jestermod:Похороненная. NL Даёт 1 Артефакта.",
+    "UPGRADE_DESCRIPTION": "jestermod:Похороненная. NL Даёт 1 Артефакта."
+  },
+  "jesterMod:Squander": {
+    "NAME": "Разбазарить",
+    "DESCRIPTION": "Вы сбрасываете !M! карты с верха стопки добора."
+  },
+  "jesterMod:Encore": {
+    "NAME": "На Бис!",
+    "DESCRIPTION": "Разыгрывает предыдущщую сыгранную карту. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Разыгрывает предыдущщую сыгранную карту. NL Сжигается. NL jestermod:Отскакивает.",
+    "EXTENDED_DESCRIPTION": [
+      "Я ещё не разыграл ни одной карты.",
+      "Боюсь, это плохая идея..."
+    ]
+  },
+  "jesterMod:ButterKnife": {
+    "NAME": "Нож для Масла",
+    "DESCRIPTION": "jestermod:Скользкая. NL Наносит !D! урона."
+  },
+  "jesterMod:Taunt": {
+    "NAME": "Провокация",
+    "DESCRIPTION": "Накладывает !M! Уязвимости на ВСЕХ врагов. NL Даёт 1 Уязвимости."
+  },
+  "jesterMod:Exasperation": {
+    "NAME": "Озлобление",
+    "DESCRIPTION": "Наносит !M! урона ВСЕМ врагам, когда вы получаете Слабость, Уязвимость или Хрупкость."
+  },
+  "jesterMod:Mending": {
+    "NAME": "Починка",
+    "DESCRIPTION": "Даёт !M! Защиты, когда вы сбрасываете карту.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Даёт !M! Защиты, когда вы сбрасываете карту."
+  },
+  "jesterMod:Hopeless": {
+    "NAME": "Безысходность",
+    "DESCRIPTION": "Неиграбельная. NL Эфирная. NL Даёт 1 Уязвимости и 1 Слабости в конце хода."
+  },
+  "jesterMod:DesperateStrike": {
+    "NAME": "Безвыходный Удар",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет *Безысходность в руку. NL jestermod:Прокручивает 1 карту."
+  },
+  "jesterMod:SelfMockery": {
+    "NAME": "Самоунижение",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Добавляет карту *Пранк в стопку добора."
+  },
+  "jesterMod:Rebuff": {
+    "NAME": "Отпор",
+    "DESCRIPTION": "Наносит !D! урона. NL Наносит !D! урона ещё раз, если на вас наложена Слабость."
+  },
+  "jesterMod:ExperimentalTreatment": {
+    "NAME": "Экспериментальное Лечение",
+    "DESCRIPTION": "jestermod:Похороненная. NL Убирает всю Слабость, Уязвимости и Хрупкость. NL Восполняет столько же ОЗ. NL Сжигается.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Восполняет !M! ОЗ)."
+    ]
+  },
+  "jesterMod:BouncingKnife": {
+    "NAME": "Скачущий Нож",
+    "DESCRIPTION": "Наносит !D! урона. NL Наносит !M! урона случ. врагу, когда эта карта сбрасывается. NL jestermod:Отскакивает."
+  },
+  "jesterMod:PerfectDodge": {
+    "NAME": "Идеальный Уворот",
+    "DESCRIPTION": "Предотвращает след. потерю ОЗ. NL Вы не можете получать Защиту от карт до конца вашего следующего хода."
+  },
+  "jesterMod:LaughingGas": {
+    "NAME": "Веселящий Газ",
+    "DESCRIPTION": "jestermod:Скользкая. NL jestermod:Похороненная. NL Враг теряет 1 Силы.",
+    "UPGRADE_DESCRIPTION": "jestermod:Скользкая. NL jestermod:Похороненная. NL ВСЕ враги теряют 1 Силы."
+  }
+}

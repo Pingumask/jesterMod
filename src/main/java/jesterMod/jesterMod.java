@@ -602,6 +602,7 @@ public class jesterMod implements
         ArrayList<String> availableLangs= new ArrayList<>();
         availableLangs.add("FRA");
         availableLangs.add("ENG");
+        availableLangs.add("RUS");
         if (availableLangs.contains(Settings.language.toString())){
             langToLoad = Settings.language.toString().toLowerCase();
         }
@@ -612,7 +613,7 @@ public class jesterMod implements
         BaseMod.loadCustomStringsFile(PotionStrings.class,getModID() + "Resources/localization/"+langToLoad+"/JesterMod-Potion-Strings.json");
         BaseMod.loadCustomStringsFile(CharacterStrings.class,getModID() + "Resources/localization/"+langToLoad+"/JesterMod-Character-Strings.json");
         BaseMod.loadCustomStringsFile(OrbStrings.class,getModID() + "Resources/localization/"+langToLoad+"/JesterMod-Orb-Strings.json");
-        logger.info("Done editing strings");
+        logger.info("Done editing "+langToLoad+" strings");
     }
     // ================ /LOAD THE TEXT/ ===================
 
@@ -631,6 +632,7 @@ public class jesterMod implements
         ArrayList<String> availableLangs= new ArrayList<>();
         availableLangs.add("FRA");
         availableLangs.add("ENG");
+        availableLangs.add("RUS");
         if (availableLangs.contains(Settings.language.toString())){
             langToLoad = Settings.language.toString().toLowerCase();
         }
